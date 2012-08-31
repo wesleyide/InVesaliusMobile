@@ -111,7 +111,7 @@ public class DatasetsListActivity extends Activity implements OnItemClickListene
 	@Override	
     protected void onResume() {
         super.onResume();
-        // The activity has become visible (it is now "resumed").
+//        The activity has become visible (it is now "resumed").
 //        File[] files = f.listFiles();
 
         if (f != null && f.exists()){
